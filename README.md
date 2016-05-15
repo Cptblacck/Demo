@@ -1,2 +1,2 @@
 # Demo
-Exporting with Blender
+Exporting Blender mesh to JSON. 
